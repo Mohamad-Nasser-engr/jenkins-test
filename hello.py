@@ -1,2 +1,3 @@
 print("Hello from Python and GitHub!")
-prin("Test schedule")
+print("Test schedule")
+print("Fixed error")
